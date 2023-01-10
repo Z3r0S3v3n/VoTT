@@ -20,7 +20,7 @@
     "body-parser": "^1.15.2",
     "bunyan": "*",
     "cookie-parser": "^1.4.3",
-    "cookie-session": "^1.3.3",
+    "cookie-session": "^2.0.0",
     "cookies": "^0.7.3",
     "ejs": ">= 0.0.0",
     "ejs-locals": ">= 0.0.0",

@@ -30,8 +30,8 @@
     "morgan": "^1.9.1",
     "node-fetch": "^2.6.0",
     "passport": "*",
-    "passport-azure-ad": "^4.1.0",
-    "simple-oauth2": "^2.2.1"
+    "passport-azure-ad": "^4.3.3",
+    "simple-oauth2": "^4.0.0"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.6",

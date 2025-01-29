@@ -54,7 +54,7 @@
         "redux": "^4.0.1",
         "redux-thunk": "^2.3.0",
         "rimraf": "^2.6.2",
-        "shortid": "^2.2.14",
+        "shortid": "^2.2.17",
         "video-react": "^0.13.2",
         "vott-ct": "2.1.24",
         "vott-react": "^0.2.10"
